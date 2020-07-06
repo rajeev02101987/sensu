@@ -1,4 +1,7 @@
 sudo: false
+arch:
+  - arm64
+  - amd64
 addons:
   apt:
     packages:
